@@ -1,0 +1,54 @@
+body
+{
+    background-color:#777;
+    width:960 px;
+    font-size: 18 px;
+
+}
+p
+{ 
+    text-align: center;
+}
+
+#header, #nav, #footer,#section {
+    margin: auto;
+    height: 100px;
+    width: 70%;
+    background-color:#ebebeb;
+}
+
+#section
+{
+    margin: auto;
+    height: 300px;
+    width:70%;
+    background-color:#777;
+}
+#left
+{
+    width:58%;
+    height: 300px;
+    float:left;
+    background-color: #ebebeb;
+}
+#aside
+{
+    width:40%;
+    height:300px;
+    float:right;
+    background-color: #ebebeb;
+}
+#article
+{
+    width:auto;
+    height:245px;
+    background-color: #777;
+    margin:10px;
+}
+#h1h2h3, #art-2
+{
+    width:auto;
+    height:90px;
+    background-color: #ebebeb;
+    margin:10px;
+}
